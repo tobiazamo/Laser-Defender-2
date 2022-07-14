@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Health
+  - SideGuns
+  - Enemy
+  - Rocket
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Powerup
+  - SideGuns
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2306371093
+    locked: 0
+  - name: StarBackground
+    uniqueID: 289564919
+    locked: 0
+  - name: StarForeGround
+    uniqueID: 80931077
+    locked: 0
+  - name: Projectile
+    uniqueID: 517033427
+    locked: 0
+  - name: Enemy
+    uniqueID: 1730109981
+    locked: 0
+  - name: Player
+    uniqueID: 1506117639
+    locked: 0
+  - name: Particle
+    uniqueID: 15750903
+    locked: 0

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7d404c83-ac03-454f-99b4-a10e16b24a88}">
+		<property name="assetPath">
+			<value>explosionCrunch_002.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.2557596371882087</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{44ac5c17-bbb2-4445-945b-6e5a396bde59}</destination>
+		</relationship>
+	</object>
+</objects>
